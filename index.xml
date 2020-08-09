@@ -77,6 +77,19 @@
     </item>
     
     <item>
+      <title>MADRaS</title>
+      <link>https://rudrasohan.github.io/project/madras/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rudrasohan.github.io/project/madras/</guid>
+      <description>&lt;p&gt;Car-Racing is a sport which requires ultra-precise reflexes along with the understanding of harmony between the driver and the race-car. In essence, it can provide a challenging testbed for testing the limits of an autonomous driving agent. Building upon this philosophy and also observing the budding popularity of TORCS in RL community, we created MADRaS which can provide a proper environment for Multi-Agent Reinforcement Learning.&lt;/p&gt;
+&lt;p&gt;MADRaS provide an OpenAI Gym interface for the TORCS environment along with support for parallelism. A user can create their custom environment selecting from a plethora of TORCS tracks and vehicles using our interface which melds this into a python API. The entire simulator can easily be configured with a single file. Additionally, we also bring support for randomized environment creation, custom control schemes and custom traffic agents to help create diverse scenarios.&lt;/p&gt;
+&lt;p&gt;The main crux of MADRaS boils down to its Multi-Agent capabilities. The entire Multi-Agent system has been designed following the guidelines provided by the 
+&lt;a href=&#34;https://bair.berkeley.edu/blog/2018/12/12/rllib/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BAIR&lt;/a&gt; lab at UC Berkely. Each agent can interact separately with the simulator and with the other agents. Each agent has a communication overhead, and the entire communication network can be reconfigured by a single configuration file.&lt;/p&gt;
+&lt;p&gt;The entire project is open-sourced under the AGPL-3.0 license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>https://rudrasohan.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -532,7 +545,7 @@ Three
     </item>
     
     <item>
-      <title>Safe Reinforcement Learning</title>
+      <title>Safe RL</title>
       <link>https://rudrasohan.github.io/project/safe-reinforcement-learning/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://rudrasohan.github.io/project/safe-reinforcement-learning/</guid>
