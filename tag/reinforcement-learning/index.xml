@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | Personal Website {Work in Progress}</title>
+    <link>https://rudrasohan.github.io/tag/reinforcement-learning/</link>
+      <atom:link href="https://rudrasohan.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rudrasohan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Reinforcement Learning</title>
+      <link>https://rudrasohan.github.io/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Safe Reinforcement Learning</title>
+      <link>https://rudrasohan.github.io/project/safe-reinforcement-learning/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://rudrasohan.github.io/project/safe-reinforcement-learning/</guid>
+      <description>&lt;p&gt;Reinforcement Learning is a tool which helps an artificial agent to &amp;ldquo;Learn by Doing&amp;rdquo;. The agents interact with the system and learn the ropes becoming better in each iteration. Most of RL research focusses on training agents in simulations as during early iterations of learning some of the agent&amp;rsquo;s actions may be harmful to itself or the user or its surroundings. But many-a-times it&amp;rsquo;s not possible to train in simulation owing to either difficulty in the representation of the environment virtually or due to the sheer gap in generalization performance. Hence, in such cases, Safe-Reinforcement learning algorithms help train the agents considering the system constraints.&lt;/p&gt;
+&lt;p&gt;There are several ways to enforce AI Saftey. In this work, we have selected two aspects of safety, Performance Bonds and Constraint Optimization.&lt;/p&gt;
+&lt;p&gt;One aspect of AI-Saftey could be described in terms of algorithmic performance, i.e. the actions of an agent are considered safe until the overall performance lies above a certain threshold.  Using techniques like Importance Sampling one can estimate the agent&amp;rsquo;s policy performance before it is executed.&lt;/p&gt;
+&lt;p&gt;The other way to enforce safety is by making sure the algorithm makes updates which satisfy certain constraints. The vast literature on constraint optimization boasts several techniques which ensure that the policy transitions only from one safe state into the next. For these methods, one needs to set up functional forms for each of the constraints.&lt;/p&gt;
+&lt;p&gt;We see that these techniques ameliorate the issues with safety-aware training.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
