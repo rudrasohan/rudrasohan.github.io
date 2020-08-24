@@ -73,41 +73,6 @@
   </url>
   
   <url>
-    <loc>https://rudrasohan.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/author/sohan-rudra/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rudrasohan.github.io/publication-type/1/</loc>
     <lastmod>2019-02-25T00:00:00+00:00</lastmod>
   </url>
@@ -120,6 +85,11 @@
   <url>
     <loc>https://rudrasohan.github.io/author/ashwin-nehete/</loc>
     <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rudrasohan.github.io/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -158,6 +128,16 @@
   </url>
   
   <url>
+    <loc>https://rudrasohan.github.io/publication_types/</loc>
+    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rudrasohan.github.io/publication/</loc>
+    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rudrasohan.github.io/tag/robotics/</loc>
     <lastmod>2019-02-25T00:00:00+00:00</lastmod>
   </url>
@@ -170,6 +150,11 @@
   <url>
     <loc>https://rudrasohan.github.io/author/siddhant-haldar/</loc>
     <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rudrasohan.github.io/author/sohan-rudra/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -245,21 +230,6 @@
   <url>
     <loc>https://rudrasohan.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rudrasohan.github.io/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
