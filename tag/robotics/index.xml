@@ -35,5 +35,17 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 </description>
     </item>
     
+    <item>
+      <title>Frenet Planner</title>
+      <link>https://rudrasohan.github.io/project/frenet-planner/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://rudrasohan.github.io/project/frenet-planner/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.researchgate.net/publication/224156269_Optimal_Trajectory_Generation_for_Dynamic_Street_Scenarios_in_a_Frenet_Frame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frenet PLanner&lt;/a&gt; is a motion planning algorithm for car-like vehicles. For a given state of a car the planner samples posssible next states in the Frenet Frame and connects them. The algorithm uses simple splines for connecting various the points.&lt;/p&gt;
+&lt;p&gt;The splines are computed using Kinematic equations of velocities and positions with respect to time. The paths are composed of two different spliens longitudinal and transversal. The longitudinal splines are characterized by velocities where as the transversal splines are characterized by position. After the relvant splines are computed a routine filters out the splines which are not following the kinematic and saftey constraits. Finally the filtered paths are evaluated on a certain objective function which minimizes jerk in tranjectory and the most optimal one is selected for execution.&lt;/p&gt;
+&lt;p&gt;Finally we transfer the path to the path tracker algorithm which generates required velocities for the low level controller.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
