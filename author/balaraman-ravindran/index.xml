@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balaraman Ravindran | Personal Website</title>
+    <link>https://rudrasohan.github.io/author/balaraman-ravindran/</link>
+      <atom:link href="https://rudrasohan.github.io/author/balaraman-ravindran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Balaraman Ravindran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rudrasohan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Balaraman Ravindran</title>
+      <link>https://rudrasohan.github.io/author/balaraman-ravindran/</link>
+    </image>
+    
+    <item>
+      <title>MADRaS : Multi Agent Driving Simulator</title>
+      <link>https://rudrasohan.github.io/publication/preprint/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://rudrasohan.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

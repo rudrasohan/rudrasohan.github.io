@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sohan Rudra | Personal Website {Work in Progress}</title>
+    <title>Sohan Rudra | Personal Website</title>
     <link>https://rudrasohan.github.io/author/sohan-rudra/</link>
       <atom:link href="https://rudrasohan.github.io/author/sohan-rudra/index.xml" rel="self" type="application/rss+xml" />
     <description>Sohan Rudra</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rudrasohan.github.io/author/sohan-rudra/avatar_hu18c37e1f608cc6ddff731da661a36694_1345455_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Sohan Rudra</title>
       <link>https://rudrasohan.github.io/author/sohan-rudra/</link>
     </image>
+    
+    <item>
+      <title>MADRaS : Multi Agent Driving Simulator</title>
+      <link>https://rudrasohan.github.io/publication/preprint/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://rudrasohan.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>College Trip</title>
